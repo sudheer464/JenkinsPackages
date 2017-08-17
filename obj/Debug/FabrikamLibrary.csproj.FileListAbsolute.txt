@@ -1,0 +1,5 @@
+c:\users\sudheer\documents\visual studio 2015\Projects\FabrikamLibrary\bin\Debug\FabrikamLibrary.dll
+c:\users\sudheer\documents\visual studio 2015\Projects\FabrikamLibrary\bin\Debug\FabrikamLibrary.pdb
+c:\users\sudheer\documents\visual studio 2015\Projects\FabrikamLibrary\obj\Debug\FabrikamLibrary.csprojResolveAssemblyReference.cache
+c:\users\sudheer\documents\visual studio 2015\Projects\FabrikamLibrary\obj\Debug\FabrikamLibrary.dll
+c:\users\sudheer\documents\visual studio 2015\Projects\FabrikamLibrary\obj\Debug\FabrikamLibrary.pdb
